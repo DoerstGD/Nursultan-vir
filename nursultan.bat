@@ -1,6 +1,6 @@
 @echo off
 Taskkill/f /im explorer.exe
-Title Celestial client
+Title Чееел ты кринж
 color 2
 
 
